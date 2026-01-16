@@ -4,4 +4,6 @@ This repo contains instructions for how to run a predictor for application rates
 
 Uses supervised machine learning methods including gradient boosting and random forest. Linear models included but found to be worse performing.
 
+If latitude longitude is imputed, can be used to forecast application rates for future HDB BTO projects.
+
 Coming soon.
